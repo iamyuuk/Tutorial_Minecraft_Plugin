@@ -1,0 +1,4 @@
+name: Tutorial
+version: '${project.version}'
+main: org.encinet.tutorial.Tutorial
+api-version: '1.20'
